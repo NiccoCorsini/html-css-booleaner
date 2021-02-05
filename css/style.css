@@ -20,3 +20,42 @@ header {
 header .container img {
   width: 19%;
 }
+
+/* MAIN */
+
+.title {
+  font-size: 50px;
+  margin-bottom: 2px;
+}
+
+.subtitle {
+  font-size: 25px;
+}
+
+.subtitle2 {
+  font-size: 15px;
+  margin-bottom: 25px;
+}
+
+.grey-text {
+  color: #808080;
+}
+
+.cyan-text {
+  color: lightskyblue;
+}
+
+/* TIM PICS */
+
+.tim {
+  height: 480px;
+}
+
+.photo-subtitle {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.highlight {
+  background-color: yellow;
+}
