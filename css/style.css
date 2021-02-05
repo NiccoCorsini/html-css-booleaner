@@ -59,3 +59,72 @@ header .container img {
 .highlight {
   background-color: yellow;
 }
+
+/* TABLE */
+
+.table {
+  width: 100%;
+  margin-top: 40px;
+  border: none;
+}
+
+.table .table-head {
+  font-weight: 700;
+  color: white;
+  background-color: #32a9e5;
+}
+
+.table .cyan {
+  background-color: #b1e5f2;
+}
+
+.table .td1 {
+  width: 25%;
+}
+
+.table .td2 {
+  width: 25%;
+}
+
+.table .td3 {
+  width: 50%;
+}
+
+.lastp {
+  margin-bottom: 40px;
+}
+
+/* EXTERNAL LINKS */
+
+.lastsubtitle {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.imgdown {
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.img1 {
+  background-image: url(../img/monitor.jpg);
+  margin-bottom: 20px;
+}
+
+.img2 {
+  background-image: url(../img/graph.jpg);
+}
+
+.link {
+  text-decoration: none;
+}
+
+.linko {
+  width: 300px;
+}
