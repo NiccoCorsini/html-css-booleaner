@@ -60,6 +60,11 @@ header .container img {
   background-color: yellow;
 }
 
+ul {
+  list-style: inside;
+  padding-left: 0;
+}
+
 /* TABLE */
 
 .table {
