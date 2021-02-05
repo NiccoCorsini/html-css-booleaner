@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+/* HEADER */
+
+header {
+  padding-top: 5%;
+  padding-bottom: 1%;
+  background-color: #4ea0ff;
+  background-image: url("../img/pattern.png");
+}
+
+.container {
+  width: 75%;
+  margin: auto;
+}
+
+header .container img {
+  width: 19%;
+}
