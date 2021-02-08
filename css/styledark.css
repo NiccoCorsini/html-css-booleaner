@@ -79,7 +79,7 @@ header .container1 img {
 }
 
 ul {
-  list-style: inside;
+  list-style-position: inside;
   padding-left: 0;
 }
 
